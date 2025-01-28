@@ -422,6 +422,9 @@ a.active {
 .skill-container .intellij:hover img {
     filter: drop-shadow(0 0 15px magenta);
 }
+.skill-container .firebase:hover img{
+    filter: drop-shadow(0 0 15px orange)
+}
 
 .skill-container .microsoft:hover img {
     filter: drop-shadow(0 0 15px darkgreen);
