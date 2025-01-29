@@ -326,7 +326,6 @@ a.active {
     margin: 0 auto;
     height: 500px;
     border: 10px solid #6995d2;
-    right: 100px;
 }
 
 
@@ -897,9 +896,7 @@ fieldset {
     .disply-table {
         height: 600px;
     }
-    .about-border {
-        width: 265px;
-    }
+
     .portfolio .categories-grid .categories ul li {
         list-style: none;
         margin: 10px 0;
