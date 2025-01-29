@@ -896,7 +896,9 @@ fieldset {
     .disply-table {
         height: 600px;
     }
-
+    .about-border {
+        width: 265px;
+    }
     .portfolio .categories-grid .categories ul li {
         list-style: none;
         margin: 10px 0;
