@@ -355,6 +355,10 @@ a.active {
     transform: scale(1.1);
 }
 
+.skill-container .react:hover img {
+    filter: drop-shadow(0 0 15px cyan);
+}
+
 .skill-container .swift:hover img {
     filter: drop-shadow(0 0 15px orange);
 }
@@ -405,6 +409,10 @@ a.active {
 
 .skill-container .vscode:hover img {
     filter: drop-shadow(0 0 15px darkblue);
+}
+
+.skill-container .csharp:hover img {
+    filter: drop-shadow(0 0 15px purple);
 }
 
 .skill-container .visualstudio:hover img {
